@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 3,
+      "name": "hats",
+      "color": "blue"
+    },
+    {
+      "name": "cat",
+      "color": "white",
+      "id": 4
+    },
+    {
+      "name": "mic",
+      "color": "blacklll;",
+      "id": 5
+    },
+    {
+      "name": "qewr",
+      "color": "qre",
+      "id": 6
+    }
+  ]
+}
